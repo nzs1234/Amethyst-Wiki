@@ -65,6 +65,7 @@
     text-align: center;
     text-shadow: 1.25px 1.25px rgba(174, 0, 255, 0.355);
     color: rgb(183, 0, 183);
+    font-family: 'Pretendard';
 }
 
 .docs_title {
@@ -87,5 +88,5 @@ p {
 }
 
 body {
-    background-color: rgb(252, 244, 255);
+    background-color: rgb(253, 247, 255);
 }
