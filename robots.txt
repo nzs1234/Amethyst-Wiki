@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amewiki.kro.kr/sitemap.xml
